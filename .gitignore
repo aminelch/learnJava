@@ -8,3 +8,7 @@ Simple JavaSwing Interface/\.project
 Simple JavaSwing Interface/\.settings/org\.eclipse\.jdt\.core\.prefs
 
 TP Collection/\.classpath
+
+TP Collection/\.project
+
+*.class
