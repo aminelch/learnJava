@@ -16,7 +16,7 @@ public class IteratorList{
             System.out.println(it.next());
         }
 
-        lis
+      
 
     }
     
